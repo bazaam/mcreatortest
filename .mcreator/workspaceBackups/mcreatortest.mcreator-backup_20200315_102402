@@ -1,7 +1,5 @@
 {
-  "id_map": {
-    "ENTITY": 2
-  },
+  "id_map": {},
   "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
@@ -20,7 +18,7 @@
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
-    "currentGenerator": "1.12.2",
+    "currentGenerator": "1.14.4",
     "usesProFeatures": false,
     "lockBaseModFiles": false
   },
