@@ -1,26 +1,12 @@
 {
   "id_map": {
-    "ENTITY": 4
+    "ENTITY": 2
   },
-  "mod_elements": [
-    {
-      "name": "MZombie",
-      "type": "mob",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {
-        "0": 3,
-        "1": 4
-      }
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "entity.mzombie.name": "M Zombie"
-    }
+    "en_us": {}
   },
   "workspaceSettings": {
     "modid": "mcreatortest",
